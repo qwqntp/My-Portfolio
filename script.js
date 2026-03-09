@@ -42,7 +42,7 @@ const CONFIG = {
       description:
       "A web application for managing and monitoring school bus routes. It provides route visualization, student management, and real-time map tracking through an interactive interface.",
       tech: ["Java" ,"Next.js", "Material UI", "Folium", "MySql", "Spring Boot"],
-      github: "https://github.com",
+      github: "https://github.com/qwqntp/SSB",
       demo: "",
     },
     {
@@ -58,7 +58,7 @@ const CONFIG = {
       description:
         "A minimalistic, responsive developer portfolio built with vanilla HTML, CSS, and JavaScript — the site you're looking at right now.",
       tech: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com",
+      github: "https://github.com/qwqntp/My-Portfolio",
       demo: "",
     },
     {
@@ -74,7 +74,7 @@ const CONFIG = {
       description:
         "A responsive e-commerce website for selling water bottles. The site features a modern design, product filtering, and a seamless shopping experience.",
       tech: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      github: "https://github.com/qwqntp/Water-Bottles-Ecommerce",
+      github: "https://github.com/phuong0802/web",
       demo: "",
     }
   ],
